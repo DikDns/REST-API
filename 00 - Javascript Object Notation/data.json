@@ -1,0 +1,30 @@
+[
+    {
+        "name": "Andika Eka Kurnia",
+        "age": 17,
+        "isn": "0220101",
+        "graduate": true,
+        "hobby": [
+            "coding",
+            "gaming"
+        ],
+        "mentor": {
+            "mentor-1": "Dicky Nugraha",
+            "mentor-2": "Faqihza"
+        }
+    },
+    {
+        "name": "Andika Eka Kurnia",
+        "age": 17,
+        "isn": "0220101",
+        "graduate": true,
+        "hobby": [
+            "coding",
+            "gaming"
+        ],
+        "mentor": {
+            "mentor-1": "Dicky Nugraha",
+            "mentor-2": "Faqihza"
+        }
+    }
+]
