@@ -1,0 +1,15 @@
+https://www.dikdns.com/?code=AQDLyW5Yp6fo0z43FUkdQdtfzKPkMavNh8pms2iA_dvMOOW6QL3w0vVcWMOEdqWdImX4CTS4r5VuLXhjAgVbGtPH_6Yvx3WkipUubzx4n6QPSNAHSLmdhYoNTijreG_niBlLojphJhqoTAslWQI9961f0WkyT8a1B3jjZj120ByR59kWgvgE_h3e6wGaMPzy2ZmB8x1rFPboIsmwf_iFfl7Q0X5HZx_oqQqJFYnIwkO3Bw#_
+
+curl -X POST \ https://api.instagram.com/oauth/access_token \ -F client_id={673384117337772} \ -F client_secret={520efddb12ad1bd353050dd78724a865} \ -F grant_type=authorization_code \ -F redirect_uri={https://www.dikdns.com/} \ -F code={AQDLyW5Yp6fo0z43FUkdQdtfzKPkMavNh8pms2iA_dvMOOW6QL3w0vVcWMOEdqWdImX4CTS4r5VuLXhjAgVbGtPH_6Yvx3WkipUubzx4n6QPSNAHSLmdhYoNTijreG_niBlLojphJhqoTAslWQI9961f0WkyT8a1B3jjZj120ByR59kWgvgE_h3e6wGaMPzy2ZmB8x1rFPboIsmwf_iFfl7Q0X5HZx_oqQqJFYnIwkO3Bw}
+
+curl -X POST https://api.instagram.com/oauth/access_token -F client_id=673384117337772 -F client_secret=520efddb12ad1bd353050dd78724a865 -F grant_type=authorization_code -F redirect_uri=https://www.dikdns.com/ -F code=AQDLyW5Yp6fo0z43FUkdQdtfzKPkMavNh8pms2iA_dvMOOW6QL3w0vVcWMOEdqWdImX4CTS4r5VuLXhjAgVbGtPH_6Yvx3WkipUubzx4n6QPSNAHSLmdhYoNTijreG_niBlLojphJhqoTAslWQI9961f0WkyT8a1B3jjZj120ByR59kWgvgE_h3e6wGaMPzy2ZmB8x1rFPboIsmwf_iFfl7Q0X5HZx_oqQqJFYnIwkO3Bw
+
+
+{
+    "access_token": "IGQVJXMTF1YTZAPaVduSUMyNU01Y3pvNkNNb1c3S1dhLVN5eENabmswRFMwQlRZAeXRTb0JzeWZA3Y080NjFXSlJSVzgwTjRMWko1c1V6TF9QM2U4TEJPdEtGOUpXTkc0RUVpbmZAmUkxpT1lZAS2RxQmZAoV1JXMFdBQ1FsMXBR", 
+    "user_id": 17841405658895139
+}
+
+
+long live
+IGQVJVamJkMXJjQURyTlFaUEpWcnh0NEJUN3ZAab3BJNmlhWlBTSHpmb0RxODhXdll4M3QzSjVUQTlhUDdUa1FQdHlkWmQ0ZADZAsOWxiSFF1VUVHLWZACdk1HaUs3dTVxaFlGOEZAoUHln

@@ -1,0 +1,18 @@
+html {
+  scroll-behavior: smooth;
+}
+
+section {
+  min-height: 420px;
+}
+
+.ig-thumbnail {
+  width: 100px;
+  height: 100;
+  float: left;
+  overflow: hidden;
+}
+
+.ig-thumbnail img {
+  width: 100px;
+}
